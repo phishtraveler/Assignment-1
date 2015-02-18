@@ -1,0 +1,58 @@
+body {
+    font-family: 'Lucida Grande', sans-serif;
+    margin: 11px 80px 0 8px;
+    color: #666;
+}
+
+
+.title-super {
+    font-size: 50px;
+    margin: 34px 0 24px 50px;
+    padding: 0 10px 0 0;
+}
+
+
+.subtitle {
+    margin: 27px 3px 30px 30px;
+    font-size: 24px;
+    color: #f07c17;
+    font-weight: bold;
+}
+
+
+.img-responsive {
+    margin: 3px 0 30px 19px;
+}
+
+
+.features {
+    border: 1px solid #ccc;
+    margin: 10px -19px 0 19px;
+    padding: 5px 50px 33px 2px;
+}
+
+
+h2 {
+    color: #f07c17;
+    margin: 3px 0 30px 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+p {
+    margin: 22px 25px 22px 20px;
+    padding: 1px 0 0 2px;
+    display: flex;
+    flex-wrap: wrap;
+    line-height: 2.0;
+    font-size: 15px;
+}
+
+
+li {
+    margin: 1px 28px 5px 28px;
+    padding: 3px 0 0 4px;
+    line-height: 1.6;
+    font-size: 15px;
+}
